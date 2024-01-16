@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya-an1l
-- 👀 I’m interested in Artificial Intelligence, and creating things that help people
+- 👀 I’m interested in Artificial Intelligence, and creating stuffs that help people
 - 🌱 I’m currently learning to make a positive impact on the world
 - 💞️ I’m looking to collaborate on anything that can help advance humanity*
 - 📫 Reach out to me at my email: aditya.anil.productions@gmail.com
