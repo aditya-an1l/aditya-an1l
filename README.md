@@ -6,7 +6,7 @@
 <div align="center"><img src="https://github.com/aditya-an1l/aditya-an1l/assets/140952269/1396ea76-9194-451b-8490-f293f5b65f0d" width="100" height="100"> </div>
 
 
-<h4 align="center">I'm Aditya. This is my GitHub Page. </h4>
+<h4 align="center">I'm Aditya, and this is My GitHub Page. </h4>
 
 I use GitHub to contribute to open-source projects, and collaborate with people to learn, imrpove and grow. 
 
