@@ -1,14 +1,10 @@
-
+<!-- Aditya Anil Readme.md -->
 
 <h3 align="center"> Hello People and Robots of the Internet </h3>
-
-
 <div align="center"><img src="https://avatars.githubusercontent.com/u/140952269" width="100" height="100"> </div>
-
-
 <h4 align="center">I'm Aditya, and this is My GitHub Page. </h4>
 
-I use GitHub to contribute to open-source projects, and collaborate with people to learn, imrpove and grow. 
+I use GitHub to contribute to open-source projects, and collaborate with people to learn, improve and grow. 
 
 To sum it up, on the programming front, I'm passionate about - **Artificial Intelligence**, **Linux**, **Science**, and **Technology** overall. 
 
@@ -27,9 +23,9 @@ Read ahead, to know me almost better
     - "Who isn't?" one may ask.
     - "I am better and inherently curious" I will respond.
 - 💡 **Believes in the power of open-source projects that induce collaboration and community-driven initiatives.**
-    - Open Source and Collaboration catalyses the rate of advancements.
-    - This is true for  both the technical and  academia fields.
-- 🤝 **Reach out** for any queries/feedbacks/communication
+    - Open Source and Collaboration catalyse the rate of advancements.
+    - This is true for  both the technical and  academic fields.
+- 🤝 **Reach out** for any queries/feedback/communication
     - Email: aditya.anil.productions@gmail.com
 
 ## Technical Skills 
@@ -45,7 +41,7 @@ Read ahead, to know me almost better
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-My interests change from time to time. New languages come up every month, and old frameworks get upgraded, and so on. The Tech community and Open Source community thus buzzes all the time with innovations, news and advancements. Here are few technical skills which I currently possess:
+My interests change from time to time. New languages come up every month, and old frameworks get upgraded, and so on. The Tech community and Open Source community thus buzz all the time with innovations, news and advancements. Here are few technical skills which I currently possess:
 - HTML / CSS 
 - React JS
 - Linux (Debian and Ubuntu)
@@ -83,6 +79,10 @@ As mentioned before, I have a wide range of interests. I have listed the softwar
 ---
 ## Closing Thoughts
 
-All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work a lot with open source projects every now and then. I regularly try out new and new applications, and get rid of the old ones. This is common in the Open Source front — new application comes, and old applications goes.
+All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work a lot with open-source projects every now and then. I regularly try out new applications and get rid of the old ones. This is common in the Open Source front — new application comes, and old applications go.
 <div align="center">
- <b> <i> But the best ones stays. And I aspire to be one... </i> </b> </div>
+ <b> <i> But the best ones stay. And I aspire to be one... </i> </b> </div>
+
+
+<!-- Acknowledgements -->
+<!-- Badge Markdown code taken from the list at [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), generated via [GitHub badge generator (ritza.co)](https://badges.ritza.co/) -->
