@@ -2,26 +2,26 @@
 
 <h3 align="center"> Hello People and Robots of the Internet </h3>
 <div align="center"><img src="https://avatars.githubusercontent.com/u/140952269" width="100" height="100"> </div>
-<h4 align="center">I'm Aditya, and this is My GitHub Page. </h4>
 
-I use GitHub to contribute to open-source projects, and collaborate with people to learn, improve and grow. 
+**I'm Aditya. This is my GitHub Page.**
 
-To sum it up, on the programming front, I'm passionate about - **Artificial Intelligence**, **Science**, and **Technology**. 
+I use GitHub to contribute to work on open-source projects and collaborate with the community to learn, improve and grow. 
 
-Read ahead, to know me almost better
+I'm passionate about **Artificial Intelligence**, **Science**, and **Technology**. 
 
----
+<h4 align="center">Read ahead to know me <i>(almost)</i> better</h4>
+
 
 ## About Me
 - ⚛️ **I am an avid learner and researcher**.
-    - I use GitHub for mostly harnessing my programming and research skills to contribute to important projects. 
+    - I use GitHub to harness my programming and research skills to contribute to important projects. 
 
 - 📖✍️ **I read a lot. I write a lot.**
   - I read research papers, news articles and non-fiction books.
   - In my free (and in my not-so-free time), I write on blogs, magazines, forums, and on all platforms where my written voice can be shared and flourish.
-  - I write under pseudonyms for anonymity, and for the purpose of containing my audience at their respective niche.
+  - I write under pseudonyms for anonymity, and to contain my audience at their respective niche.
 
-- 💻 **Programming as an Hobby, and building projects for fun**
+- 💻 **Programming as a Hobby, and building projects for fun**
   - My primary programming languages include **Python**, **Lua**, **C/C++** and **Javascript**
   - For my research, I work with **R**, **LaTeX** and **Matlab**
       
@@ -57,7 +57,7 @@ Read ahead, to know me almost better
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-My interest changes and evolve with time. I experiment alot with languages and tech stack, so expect this section to get updated every now and then.
+My interest changes and evolves with time. I experiment a lot with languages and tech stack, so expect this section to get updated every now and then.
 
 Here are few technical skills which I currently possess:
 - **Frontend**: HTML5 / CSS3, React
@@ -67,7 +67,7 @@ Here are few technical skills which I currently possess:
 - **Research** - R, Matlab, LaTex, Markdown 
 - **CLI** - Bash / Shell Scripts
 
-The Tech and Open Source Community buzzes all the time with innovations, news, surprises, drama and (at times) advancements. I just my hands dirty and play alot.
+The Tech and Open Source Community buzzes all the time with innovations, news, surprises, drama and (at times) advancements. I just my hands dirty and play a lot.
 
 ## Software Skills
 <p align="center">
@@ -83,7 +83,7 @@ The Tech and Open Source Community buzzes all the time with innovations, news, s
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </p>
 
-As mentioned before, I experiment alot. I have listed the software — both Open Source and Closed — that I  use every now and then: 
+As mentioned before, I experiment a lot. I have listed the software — both Open Source and Closed — that I  use every now and then: 
 
 
 | Purpose         | Tools                                                              |
@@ -98,7 +98,7 @@ As mentioned before, I experiment alot. I have listed the software — both Open
 
 I usually use these tools in conjunction, even though this seems like an exhaustive list. This is not a complete list, obviously, for I am quite fuzzy about working with many tools. 
 
-For example, you can see I have more than one type of text editors for programming. But each have their own uses. For example, Neovim is primary for programming, but VSCode is quite cood for collaborating programming. Sublime quite suprisingly fast to run in small portable non-cli environment.
+For example, you can see I have more than one type of text editor for programming. But each has its own uses. For example, Neovim is primary for programming, but VSCode is quite cood for collaborating programming. Sublime is quite surprisingly fast to run in a small portable non-cli environment.
 
 
 
@@ -109,11 +109,11 @@ For example, you can see I have more than one type of text editors for programmi
 
 All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work a lot with projects every now and then. I regularly try out new applications and get rid of the old ones.
 
-This is common in the digital front — new application comes, and old applications go.
+This is common on the digital front — new applications come, and old applications go.
 <div align="center">
  <b> <i> But the best ones stay. And I aspire to be one... </i> </b> </div>
 
 ---
 
 ### Acknowledgements 
-Badge Markdown code taken from the list at [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), generated via [GitHub badge generator (ritza.co)](https://badges.ritza.co/). Do check out and support the authors.
+Badge Markdown code is taken from the list at [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), generated via [GitHub badge generator (ritza.co)](https://badges.ritza.co/). Do check out and support the authors.
