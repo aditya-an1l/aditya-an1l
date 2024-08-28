@@ -13,6 +13,10 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 
 
 ## About Me
+<!--
+![Aditya An1l's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-an1l&show_icons=true&theme=gruvbox)
+-->
+
 - ⚛️ **I am an avid learner and researcher**.
     - I use GitHub to harness my programming and research skills to contribute to important projects. 
 
