@@ -21,8 +21,8 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
     - I use GitHub to harness my programming and research skills to contribute to important projects. 
 
 - 📖✍️ **I read a lot. I write a lot.**
-  - I read research papers, news articles and non-fiction books.
-  - In my free (and in my not-so-free time), I write on blogs, magazines, forums, and on all platforms where my written voice can be shared and flourish.
+  - I read research papers, blogs, news articles and non-fiction books.
+  - In my free (and in my not-so-free time), I write on blogs, magazines, forums, and all platforms where my voice can be shared and flourish.
   - I write under pseudonyms for anonymity, and to contain my audience at their respective niche.
 
 - 💻 **Programming as a Hobby, and building projects for fun**
@@ -92,13 +92,13 @@ As mentioned before, I experiment a lot. I have listed the software — both Ope
 
 | Purpose         | Tools                                                              |
 | --------------- | ------------------------------------------------------------------ |
-| Programming      | NeoVim, VSCode, Sublime, Jupyter, Quarto                           |
+| Programming     | NeoVim, VSCode, Sublime, Jupyter, Quarto                           |
 | Media Editing   | Adobe Tools (Photoshop, Illustrator, Premiere Pro, etc.), Inkscape |
 | 3d and CAD      | Blender, Solidwork                                                 |
 | Game Dev        | GoDot                                                              |
 | Notetaking      | Obsidian, LaTeX, MSOffice, Google Workspace Tools                  |
 | Virtual Machine | VMWare Workstation Pro                                             |
-| Research        | Zotero, LaTeX, R Studio, Jupyter                                   
+| Research        | Zotero, LaTeX, R Studio, Jupyter, Matlab                                 
 
 I usually use these tools in conjunction, even though this seems like an exhaustive list. This is not a complete list, obviously, for I am quite fuzzy about working with many tools. 
 
