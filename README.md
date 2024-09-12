@@ -23,20 +23,17 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 - 📖✍️ **I read a lot. I write a lot.**
   - I read research papers, blogs, news articles and non-fiction books.
   - In my free (and in my not-so-free time), I write on blogs, magazines, forums, and all platforms where my voice can be shared and flourish.
-  - I write under pseudonyms for anonymity, and to contain my audience at their respective niche.
-
+  
 - 💻 **Programming as a Hobby, and building projects for fun**
   - My primary programming languages include **Python**, **Lua**, **C/C++** and **Javascript**
-  - For my research, I work with **R**, **LaTeX** and **Matlab**
+  - For research, I work with **R**, **LaTeX** and **Matlab**
       
 - 💡 **Believes in the power of open-source projects that induce collaboration and community-driven initiatives.**
-    - Open Source and Collaboration catalyse the rate of advancements.
-    - This is true for  both the technical and academic fields.
+    - I believe that Open Source and Collaboration catalyse the rate of advancements.
 
 
 - 🌱 **Constantly learning and striving to improve.**
-    - "Who isn't?" one may ask.
-    - "I am better at being inherently curious" I will respond.
+    - I am competing with myself to become better at my art.
 
 - 🤝 **Reach out** for any queries/feedback/communication
     - Email: aditya.anil.productions@gmail.com
