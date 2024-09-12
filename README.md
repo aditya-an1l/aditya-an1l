@@ -68,7 +68,7 @@ Here are few technical skills which I currently possess:
 - **Research** - R, Matlab, LaTex, Markdown 
 - **CLI** - Bash / Shell Scripts
 
-The Tech and Open Source Community buzzes all the time with innovations, news, surprises, drama and (at times) advancements. I just my hands dirty and play a lot.
+The Tech and Open Source Community buzzes all the time with innovations, news, surprises, drama and (at times) remarkable advancements. I just get my hands dirty and play a lot.
 
 ## Software Skills
 <p align="center">
