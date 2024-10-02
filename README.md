@@ -7,7 +7,7 @@
 
 I use GitHub to contribute to work on open-source projects and collaborate with the community to learn, improve and grow. 
 
-I'm passionate about **Artificial Intelligence**, **Science**, and **Technology**. 
+I'm passionate about **Artificial Intelligence**, **Science**, and **Technology** in general. 
 
 <h4 align="center">Read ahead to know me <i>(almost)</i> better</h4>
 
@@ -99,7 +99,7 @@ As mentioned before, I experiment a lot. I have listed the software — both Ope
 
 I usually use these tools in conjunction, even though this seems like an exhaustive list. This is not a complete list, obviously, for I am quite fuzzy about working with many tools. 
 
-For example, you can see I have more than one type of text editor for programming. But each has its own uses. For example, Neovim is primary for programming, but VSCode is quite cool for collaborating programming. Sublime is quite surprisingly fast to run in a small portable non-cli environment.
+For example, you can see I have more than one type of text editor for programming. But each has its own uses. For example, I find Neovim quite good for programming, but VSCode has somewhat better support for collaboration. Sublime is also surprisingly fast to run with low startup times in a small portable non-cli environment.
 
 
 
