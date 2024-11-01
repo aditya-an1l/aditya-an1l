@@ -99,7 +99,7 @@ As mentioned before, I experiment a lot. I have listed the software — both Ope
 
 I usually use these tools in conjunction, even though this seems like an exhaustive list. This is not a complete list, obviously, for I am quite fuzzy about working with many tools. 
 
-For example, you can see I have more than one type of text editor for programming. But each has its own uses. For example, I find Neovim quite good for programming, but VSCode has somewhat better support for collaboration. Sublime is also surprisingly fast to run with low startup times in a small portable non-cli environment.
+For example, you can see I have more than one type of text editor for programming. But each has its own uses. I find Neovim quite good for programming, but VSCode has somewhat better support for collaboration. Sublime is also surprisingly fast to run with low startup times in a small portable non-cli environment.
 
 
 
@@ -108,11 +108,13 @@ For example, you can see I have more than one type of text editor for programmin
 
 ## Closing Thoughts
 
-All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work a lot with projects every now and then. I regularly try out new applications and get rid of the old ones.
+All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work with new projects every now and then. I regularly try out new applications and get rid of the old ones.
 
 This is common on the digital front — new applications come, and old applications go.
+
+In the end, my goal is simple:
 <div align="center">
- <b> <i> But the best ones stay. And I aspire to be one... </i> </b> </div>
+ <b> <i> I want to be the light of the world. I want to leave a positive impact on this world. </i> </b> </div>
 
 ---
 
