@@ -114,7 +114,7 @@ This is common on the digital front — new applications come, and old applicati
 
 In the end, my goal is simple:
 <div align="center">
- <b> <i> I want to be the light of the world. I want to leave a positive impact on this world. </i> </b> </div>
+ <b> <i> I want to be the light of the world and leave a positive impact. </i> </b> </div>
 
 ---
 
