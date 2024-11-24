@@ -18,7 +18,7 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 -->
 
 - ⚛️ **I am an avid learner and researcher**.
-    - I use GitHub to harness my programming and research skills to contribute to important projects. 
+    - I use GitHub to harness my programming and research skills and contribute to important projects. 
 
 - 📖✍️ **I read a lot. I write a lot.**
   - I read research papers, blogs, news articles and non-fiction books.
@@ -110,11 +110,9 @@ For example, you can see I have more than one type of text editor for programmin
 
 All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work with new projects every now and then. I regularly try out new applications and get rid of the old ones.
 
-This is common on the digital front — new applications come, and old applications go.
-
 In the end, my goal is simple:
 <div align="center">
- <b> <i> I want to be the light of the world and leave a positive impact. </i> </b> </div>
+ <b> <i> I aspire to be the light of the world, and leave a bright positive impact behind as my legacy. </i> </b> </div>
 
 ---
 
