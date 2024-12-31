@@ -33,7 +33,7 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 
 
 - 🌱 **Constantly learning and striving to improve.**
-    - I am competing with myself to become better at my art.
+    - I am competing with myself to become better at my craft.
 
 - 🤝 **Reach out** for any queries/feedback/communication
     - Email: aditya.anil.productions@gmail.com
