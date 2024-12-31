@@ -17,10 +17,10 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 ![Aditya An1l's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-an1l&show_icons=true&theme=gruvbox)
 -->
 
-- ⚛️ **I am an avid learner and researcher**.
+- ⚛️ **Avid learner and researcher**.
     - I use GitHub to harness my programming and research skills and contribute to important projects. 
 
-- 📖✍️ **I read a lot. I write a lot.**
+- 📖✍️ **Read a lot. Write a lot.**
   - I read research papers, blogs, news articles and non-fiction books.
   - In my free (and in my not-so-free time), I write on blogs, magazines, forums, and all platforms where my voice can be shared and flourish.
   
@@ -60,7 +60,7 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 
 My interest changes and evolves with time. I experiment a lot with languages and tech stack, so expect this section to get updated every now and then.
 
-Here are few technical skills which I currently possess:
+Here are the technical skills which I currently possess:
 - **Frontend**: HTML5 / CSS3, React
 - **Backend** - Python, Lua, NodeJS
 - **Database** - MySQL
@@ -97,18 +97,12 @@ As mentioned before, I experiment a lot. I have listed the software — both Ope
 | Virtual Machine | VMWare Workstation Pro                                             |
 | Research        | Zotero, LaTeX, R Studio, Jupyter, Matlab                                 
 
-I usually use these tools in conjunction, even though this seems like an exhaustive list. This is not a complete list, obviously, for I am quite fuzzy about working with many tools. 
-
-For example, you can see I have more than one type of text editor for programming. But each has its own uses. I find Neovim quite good for programming, but VSCode has somewhat better support for collaboration. Sublime is also surprisingly fast to run with low startup times in a small portable non-cli environment.
-
-
-
-
+This is not a complete list, obviously, for I am quite fuzzy about working with many tools. I usually use these tools in conjunction.
  
+All the tools and skills mentioned here play a great role in my research, learning and programming endeavours.
 
 ## Closing Thoughts
 
-All the tools and skills mentioned here play a great role in my research, learning and programming endeavours. This is not a complete list since I work with new projects every now and then. I regularly try out new applications and get rid of the old ones.
 
 In the end, my goal is simple:
 <div align="center">
