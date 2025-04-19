@@ -63,10 +63,11 @@ My interest changes and evolves with time. I experiment a lot with languages and
 Here are the technical skills which I currently possess:
 - **Frontend**: HTML5 / CSS3, React
 - **Backend** - Python, Lua, NodeJS
-- **Database** - MySQL
-- **Unix** - Debian and Ubuntu
-- **Research** - R, Matlab, LaTex, Markdown 
+- **Database** - MySQL, MongoDB
+- **Unix** - Arch Linux, Debian and Ubuntu
+- **Research** - R, Matlab, LaTEX, Markdown 
 - **CLI** - Bash / Shell Scripts
+- **Core Programming** - Python, Java, C, Assembly
 
 The Tech and Open Source Community buzzes all the time with innovations, news, surprises, drama and (at times) remarkable advancements. I just get my hands dirty and play a lot.
 
