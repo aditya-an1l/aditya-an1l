@@ -26,7 +26,7 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
   
 - 💻 **Programming as a Hobby, and building projects for fun**
   - My primary programming languages include **Python**, **Lua**, **C/C++** and **Javascript**
-  - For research, I work with **R**, **LaTeX** and **Matlab**
+  - For research, I work with **R**, **LaTEX** and **MATLAB**
       
 - 💡 **Believes in the power of open-source projects that induce collaboration and community-driven initiatives.**
     - I believe that Open Source and Collaboration catalyse the rate of advancements.
