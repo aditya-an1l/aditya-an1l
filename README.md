@@ -5,7 +5,7 @@
 
 **I'm Aditya. This is my GitHub Page.**
 
-I use GitHub to contribute to work on open-source projects and collaborate with the community to learn, improve and grow. 
+I use GitHub to showcase my projects and contribute to open-source.
 
 I'm passionate about **Artificial Intelligence**, **Science**, and **Technology** in general. 
 
@@ -17,8 +17,8 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 ![Aditya An1l's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-an1l&show_icons=true&theme=gruvbox)
 -->
 
-- ⚛️ **Avid learner and researcher**.
-    - I use GitHub to harness my programming and research skills and contribute to important projects. 
+- ⚛️ **Avid Learner**.
+    - I use GitHub to harness my programming and research skills, and use it to contribute to important projects. 
 
 - 📖✍️ **Read a lot. Write a lot.**
   - I read research papers, blogs, news articles and non-fiction books.
@@ -29,11 +29,11 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
   - For research, I work with **R**, **LaTEX** and **MATLAB**
       
 - 💡 **Believes in the power of open-source projects that induce collaboration and community-driven initiatives.**
-    - I believe that Open Source and Collaboration catalyse the rate of advancements.
+    - I believe that Open Source and collaborative projects catalyses the rate of advancements.
 
 
 - 🌱 **Constantly learning and striving to improve.**
-    - I am competing with myself to become better at my craft.
+    - I am competing with myself to become better at my crafts.
 
 - 🤝 **Reach out** for any queries/feedback/communication
     - Email: aditya.anil.productions@gmail.com
