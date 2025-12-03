@@ -23,13 +23,13 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
 
 <p align="center"> 
     <a href="https://x.com/aditya_an1l">
-        <img src="https://img.shields.io/badge/Twitter-FOLLOW-white?style=for-the-badge&logo=X&logoColor=black">
+        <img src="https://img.shields.io/badge/Twitter-FOLLOW-black?style=for-the-badge&logo=X&logoColor=black">
     </a>
     <a href="https://aditya-an1l.github.io/ADITYA-ANIL-Resume.pdf">
         <img src="https://img.shields.io/badge/Resume-VIEW-blue?style=for-the-badge&logo=readme.io&logoColor=white">
     </a>
     <a href="mailto:aditya.anil.productions@gmail.com">
-        <img src="https://img.shields.io/badge/Email-CONTACT-white?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Email-CONTACT-black?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/aditya-an1l/">
         <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
