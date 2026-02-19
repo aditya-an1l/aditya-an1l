@@ -31,7 +31,7 @@ I'm passionate about **Artificial Intelligence**, **Science**, and **Technology*
     <a href="mailto:aditya.anil.productions@gmail.com">
         <img src="https://img.shields.io/badge/Email-CONTACT-black?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/aditya-an1l/">
+    <a href="https://www.linkedin.com/in/its-aditya-an1l/">
         <img src="https://img.shields.io/badge/LinkedIn-CONNECT-white?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
